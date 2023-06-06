@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as n,a as o,t as a}from"./app-6989efeb.js";const r={};function s(c,l){return t(),n("div",null,[o("p",null,"::: slot footer MIT Licensed | Copyright ©"+a(new Date().getFullYear())+" -present Evan You :::",1)])}const i=e(r,[["render",s],["__file","index.html.vue"]]);export{i as default};
