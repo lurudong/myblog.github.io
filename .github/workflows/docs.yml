@@ -22,14 +22,12 @@ jobs:
         with:
           # 选择要使用的 node 版本
           node-version: 18
-          # 缓存 pnpm 依赖
+          # 缓存 npm 依赖
           cache: npm
-
 
       - name: Install dependencies
         run: npm install
 
-      
       # 运行构建脚本
       - name: Build myblog
         run: npm run docs:build
