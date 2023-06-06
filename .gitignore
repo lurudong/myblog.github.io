@@ -1,4 +1,4 @@
-echo 'node_modules' >> .gitignore
-echo '.temp' >> .gitignore
-echo '.cache' >> .gitignore
+
+'.temp' >> .gitignore
+'.cache' >> .gitignore
 /node_modules
